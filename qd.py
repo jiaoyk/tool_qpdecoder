@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import quopri
 import argparse
 import codecs
